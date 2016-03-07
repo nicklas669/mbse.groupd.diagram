@@ -1,0 +1,7 @@
+# Tracing options for the dk.dtu.compute.se.mdsu.tutorial1.diagram plug-in
+
+# Common issues
+dk.dtu.compute.se.mdsu.tutorial1.diagram/debug=false
+
+# Visual IDs
+dk.dtu.compute.se.mdsu.tutorial1.diagram/debug/visualID=false
